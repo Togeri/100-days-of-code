@@ -1,30 +1,33 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: January 2, 2017 
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Started the Portfolio Challenge at FreeCodeCamp. Went through it and established the section separation.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** Starting a whole project from scratch is WAY more different AND difficult than just following the tutorials step by step. The bad thing of it it's that I'm writting this on day 3 as I've just discovered this GitHub repository. Just to keep track on progress, I will put two of my already finished projects because I guess I'll be finishing my Portfolio challenge tomorrow (on day 4)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** The first one is my [Tribute Page] (https://codepen.io/Togeri/pen/JbgxKo)
+
+### Day 2: January 4, 2017 
+
+**Today's Progress**: Kept working on my Portfolio Challenge. Did some nice progress about the website's design.
+
+**Thoughts**: Today was rough. I felt so dumb over the whole day because I coudln't understand anything. I though I understood the Grid System. Wrong. I started with Bootstrap Navbar thinking I could do it easily. Wrong. Spent 90% of my time trying to figure out how it works. I felt so dumb for today's 90% of my #100DaysOfCode Challenge. But the last 10% of the day I made some good progress, so I think it's just fine for today. I will put my second project I did just for fun (nothing about FreeCodeCamp Challenge, more like "I want to try and do this for fun" Challenge.
+
+**Link(s) to work**: [Google Logo] (https://codepen.io/Togeri/pen/GrKgNK)
+
+
+### Day 3: January 5, Thursday
+
+**Today's Progress**: Almost finished my Portfolio Challenge. I completed the Portfolio Section, the Footer, the Header and the "About Me" section. There's only the Damn Navbar left. Tomorrow I'm gonna get you baby.
+
+**Thoughts** I still have to figure out one thing I want to do: I want the web to behave differently when using a PC or a smartphone: 
+- On PC: Header logos are shown in Grey color, and when you put the mouse on it, .hoover subclass gives them their propper colors (had to look after them on several design pages, but it was worth it to make my idea come to life and see how it worked)
+- On Smartphone: As there's no .hoover subclass on mobile devices, I want the responsive version of the webpage to show them colored instead of grey on the first place. Still have to figure out how.
+
+Of course, I've been learning how to code for just 7 to 9 days (can't remember when I started FCC's route, and I had to stop for 3 days, so... a bit fuzzy to remember), so I don't intend to build next Facebook. Just step by step buddy, plenty of work to get done besides code. 
+If I have to stablish a metaphor for it, it would some as <em>tutorials are "in-lab" tests where every parameter is contained and controlled. Working on a new project from scratch is... well, it is wild.</em> But I guess real-life problems are exactly that: facing the unexpected 24/7. I'm glad I've this idea hit me in the face just on a second day of practice. It's nice to get out of the comfort zone. Damn I feel lucky for having discovered FreeCodeCamp. I'm that learn-by-doing kind of person.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Portfolio Challenge](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
