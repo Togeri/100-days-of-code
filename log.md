@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 2, 2017 
+### Day 1: January 2, 2017 - 99 Days left
 
 
 **Today's Progress**: Started the Portfolio Challenge at FreeCodeCamp. Went through it and established the section separation.
@@ -9,7 +9,7 @@
 
 **Link to work:** The first one is my [Tribute Page] (https://codepen.io/Togeri/pen/JbgxKo)
 
-### Day 2: January 4, 2017 
+### Day 2: January 4, 2017 - 98 Days left
 
 **Today's Progress**: Kept working on my Portfolio Challenge. Did some nice progress about the website's design.
 
@@ -18,7 +18,7 @@
 **Link(s) to work**: [Google Logo] (https://codepen.io/Togeri/pen/GrKgNK)
 
 
-### Day 3: January 5, Thursday
+### Day 3: January 5, Thursday - 97 Days left
 
 **Today's Progress**: Almost finished my Portfolio Challenge. I completed the Portfolio Section, the Footer, the Header and the "About Me" section. There's only the Damn Navbar left. Tomorrow I'm gonna get you baby.
 
