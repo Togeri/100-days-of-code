@@ -13,7 +13,7 @@
 
 **Today's Progress**: Kept working on my Portfolio Challenge. Did some nice progress about the website's design.
 
-**Thoughts**: Today was rough. I felt so dumb over the whole day because I coudln't understand anything. I though I understood the Grid System. Wrong. I started with Bootstrap Navbar thinking I could do it easily. Wrong. Spent 90% of my time trying to figure out how it works. I felt so dumb for today's 90% of my #100DaysOfCode Challenge. But the last 10% of the day I made some good progress, so I think it's just fine for today. I will put my second project I did just for fun (nothing about FreeCodeCamp Challenge, more like "I want to try and do this for fun" Challenge.
+**Thoughts**: Today was rough. I felt so dumb over the whole day because I coudln't understand anything. I though I understood the Grid System. Wrong. I started with Bootstrap Navbar thinking I could do it easily. Wrong. Spent 90% of my time trying to figure out how it works. I felt so dumb for today's 90% of my #100DaysOfCode Challenge. But the last 10% of the day I made some good progress, so I think it's just fine for today. I will put my second project I did just for fun (nothing about FreeCodeCamp Challenge, more like "I want to try and do this for fun" Challenge).
 
 **Link(s) to work**: [Google Logo] (https://codepen.io/Togeri/pen/GrKgNK)
 
