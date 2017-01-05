@@ -27,7 +27,7 @@
 - On Smartphone: As there's no .hoover subclass on mobile devices, I want the responsive version of the webpage to show them colored instead of grey on the first place. Still have to figure out how.
 
 Of course, I've been learning how to code for just 7 to 9 days (can't remember when I started FCC's route, and I had to stop for 3 days, so... a bit fuzzy to remember), so I don't intend to build next Facebook. Just step by step buddy, plenty of work to get done besides code. 
-If I have to stablish a metaphor for it, it would some as <em>tutorials are "in-lab" tests where every parameter is contained and controlled. Working on a new project from scratch is... well, it is wild.</em> But I guess real-life problems are exactly that: facing the unexpected 24/7. I'm glad I've this idea hit me in the face just on a second day of practice. It's nice to get out of the comfort zone. Damn I feel lucky for having discovered FreeCodeCamp. I'm that learn-by-doing kind of person.
+If I have to stablish a metaphor for it, it would something as <em>tutorials are "in-lab" tests where every parameter is contained and controlled. Working on a new project from scratch is... well, it is wild.</em> But I guess real-life problems are exactly that: facing the unexpected 24/7. I'm glad I've this idea hit me in the face just on a second day of practice. It's nice to get out of the comfort zone. Damn I feel lucky for having discovered FreeCodeCamp. I'm that learn-by-doing kind of person.
 
 **Link(s) to work**
 1. [Portfolio Challenge](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
