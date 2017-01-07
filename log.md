@@ -46,26 +46,26 @@ The other problem I've got is again with the .hover function:
 - It doesn't make any sense to establish a .hover function in smartphones as small devices are touchscreens. Is there a way to establish every icon as .active so as to show them colored full time in smartphones, and maintain the .hover function in large screens? 
 I would like to point out that I'm 101% new to code and my knowledge in JavaScript is zero, so... Any kind of CSS/HTML formatting? Because I don't want to Copy&Paste a code that haven't been written by me: I feel like that's not really helping to learn...
 
-** Thoughts**: I still have to improve those things in my project, but to be honest, the feel you get from starting somethign from scratch and seen it done it's just amazing! 
+**Thoughts**: I still have to improve those things in my project, but to be honest, the feel you get from starting somethign from scratch and seen it done it's just amazing! 
 
 I will put my doubts in FCC's forum, see if they can help me with this issue (and ask them the reason and 'whys' of their different methodologies.
 
-**Link(s) to work** : [Portfolio Challenge](https://codepen.io/Togeri/full/RKNPvG/)
+**Link(s) to work**: [Portfolio Challenge](https://codepen.io/Togeri/full/RKNPvG/)
 
 
 ### Day 5 - January 7th, Sunday - 95 Days Left
 
-**Today's Progress** : I've found FCC to be such a nice community willing to help. [xNavid] (https://forum.freecodecamp.com/users/xnavid/activity) and [belcurv] (https://forum.freecodecamp.com/users/belcurv/activity) have helped me a lot with the responsive issues. I've learned about @media feature and how to tag specific decives to behave speciffilcaly. I still encounter problems with Firefox as the -moz- feature isn't working for the icon issue. Safari and Chrome are solved and running perfectly. 
+**Today's Progress**: I've found FCC to be such a nice community willing to help. [xNavid] (https://forum.freecodecamp.com/users/xnavid/activity) and [belcurv] (https://forum.freecodecamp.com/users/belcurv/activity) have helped me a lot with the responsive issues. I've learned about @media feature and how to tag specific decives to behave speciffilcaly. I still encounter problems with Firefox as the -moz- feature isn't working for the icon issue. Safari and Chrome are solved and running perfectly. 
 
 - Besides that, I've created two version of my Portfolio, one with squared thumbnails and one with rounded thumbnails for some images.
 The reason to do so, is that I feel like there's more "individual (micro) visual coherence" between rounded borders and circle elements, such as the IDF Logo I've created on Photoshop or the GitHub Logo. 
 On the other hand, I feel like there's no "general (macro) visual coherence" around the whole webpage, as there are squared elements and rounded elements... I have to figure something out for this too. 
 
-** Thoughts** : I'm a bit concerned because I might be focusing too much on my Portfolio's "perfection" instead of moving foward to JavaScript. But the thing is that I've got to have this page ready in order to link it to my blog and my Linkedin to show my work online. 
+**Thoughts**: I'm a bit concerned because I might be focusing too much on my Portfolio's "perfection" instead of moving foward to JavaScript. But the thing is that I've got to have this page ready in order to link it to my blog and my Linkedin to show my work online. 
 
 However, tomorrow I should start JS learning. **I will put myself a deadline in order to start learning JS: Monday morning.** But damn, just 1 hour of code won't be enough to learn and practice, I can feel it. I don't have any free time with my Marketing degree, my Google courses, my blogging and now trying to learn code, but stil... I have to figure out where I'm going to pull some time off from. 
 
-**Link(s) to work** : 
+**Link(s) to work**: 
 
 - [Squared Portfolio] (https://codepen.io/Togeri/full/RKNPvG/)
 - [Rounded Portfolio] (https://codepen.io/Togeri/full/OWVQVL)
@@ -73,10 +73,10 @@ However, tomorrow I should start JS learning. **I will put myself a deadline in 
 
 ### Day - 
 
-**Today's Progress** :
+**Today's Progress**:
 
-**Thoughts** :
+**Thoughts**:
 
-**Link(s) to work** : 
+**Link(s) to work**: 
 
 
