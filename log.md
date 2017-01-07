@@ -30,4 +30,24 @@ Of course, I've been learning how to code for just 7 to 9 days (can't remember w
 If I have to stablish a metaphor for it, it would something as <em>tutorials are "in-lab" tests where every parameter is contained and controlled. Working on a new project from scratch is... well, it is wild.</em> But I guess real-life problems are exactly that: facing the unexpected 24/7. I'm glad I've this idea hit me in the face just on a second day of practice. It's nice to get out of the comfort zone. Damn I feel lucky for having discovered FreeCodeCamp. I'm that learn-by-doing kind of person.
 
 **Link(s) to work**
-1. [Portfolio Challenge](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Portfolio Challenge](https://codepen.io/Togeri/full/RKNPvG/)
+
+
+### Day 4 - January 6th, Friday - 96 Days Left
+
+** Today's Progress **: I've completed my Tribute Page! I still encounter some problems with browser navigation and responsive behavior: 
+
+First, I'm finding some troubles with the .hover function:
+
+- On Safari and Chrome browser, I've got no problem with the .hover function that colors the icons when you pass the mouse through them, but Mozilla shows them grey always and doesn't respond to .hover function.
+
+The other problem I've got is again with the .hover function:
+
+- It doesn't make any sense to establish a .hover function in smartphones as small devices are touchscreens. Is there a way to establish every icon as .active so as to show them colored full time in smartphones, and maintain the .hover function in large screens? 
+I would like to point out that I'm 101% new to code and my knowledge in JavaScript is zero, so... Any kind of CSS/HTML formatting? Because I don't want to Copy&Paste a code that haven't been written by me: I feel like that's not really helping to learn...
+
+** Thoughts**: I still have to improve those things in my project, but to be honest, the feel you get from starting somethign from scratch and seen it done it's just amazing! 
+
+I will put my doubts in FCC's forum, see if they can help me with this issue (and ask them the reason and 'whys' of their different methodologies.
+
+** Link(s) to work ** : [Portfolio Challenge](https://codepen.io/Togeri/full/RKNPvG/)
