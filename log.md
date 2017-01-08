@@ -52,7 +52,7 @@ I will put my doubts in FCC's forum, see if they can help me with this issue (an
 **Link(s) to work**: [Portfolio Challenge](https://codepen.io/Togeri/full/RKNPvG/)
 
 
-### Day 5 - January 7th, Sunday - 95 Days Left
+### Day 5 - January 7th, Saturday - 95 Days Left
 
 **Today's Progress**: I've found FCC to be such a nice community willing to help. [xNavid] (https://forum.freecodecamp.com/users/xnavid/activity) and [belcurv] (https://forum.freecodecamp.com/users/belcurv/activity) have helped me a lot with the responsive issues. I've learned about @media feature and how to tag specific decives to behave speciffilcaly. I still encounter problems with Firefox as the -moz- feature isn't working for the icon issue. Safari and Chrome are solved and running perfectly. 
 
@@ -68,6 +68,15 @@ However, tomorrow I should start JS learning. **I will put myself a deadline in 
 
 - [Squared Portfolio] (https://codepen.io/Togeri/full/RKNPvG/)
 - [Rounded Portfolio] (https://codepen.io/Togeri/full/OWVQVL)
+
+
+### Day 6 - January 8th, Sunday
+
+**Today's Progress**: Started JavaScript. Went through 20 challenges of basic JavaScript at FCC.
+
+**Thoughts**: Today's progress haven't been too much, I need to put more effort and time on it in order to progress properly.
+
+**Link(s) to work**: [Just challenge 20 of FCC.](https://www.freecodecamp.com/challenges/convert-celsius-to-fahrenheit)
 
 
 ### Day - 
