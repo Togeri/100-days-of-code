@@ -83,7 +83,7 @@ However, tomorrow I should start JS learning. **I will put myself a deadline in 
 
 **Today's Progress**: Following JavaScript tutorials. Went through 10 challenges as they were two bugs in the course. 
 
-**Thoughts**: I feel like I'm slowing down the process. It's a bit annoying, but the important thing is to keep on moving. It doesn't matter if it's slow but steady, as long as every day I make at least an 1 hour of code. Tomorrow I've got an exam, but I have to make some relevant progress so as to see this log and feel better than these last two days.
+**Thoughts**: I feel like I'm slowing down the process. It's a bit annoying, but the important thing is to keep on moving. It doesn't matter if it's slow but steady, as long as every day I make at least an 1 hour of code. Tomorrow I've got an exam, but I have to make some relevant progress so as to see this log and feel better than these last two days. I still have to figure out Benjamin's message to solve the cross-browser incompatibility issue that's griding my gears off. 
 
 **Link(s) to work**: Nothing really, just 10 challenges foward than the link above
 
