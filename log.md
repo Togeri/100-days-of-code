@@ -79,12 +79,21 @@ However, tomorrow I should start JS learning. **I will put myself a deadline in 
 **Link(s) to work**: [Just challenge 20 of FCC.](https://www.freecodecamp.com/challenges/convert-celsius-to-fahrenheit)
 
 
-### Day - 
+### Day - 7 - Januart 9th, Monday
+
+**Today's Progress**: Following JavaScript tutorials. Went through 10 challenges as they were two bugs in the course. 
+
+**Thoughts**: I feel like I'm slowing down the process. It's a bit annoying, but the important thing is to keep on moving. It doesn't matter if it's slow but steady, as long as every day I make at least an 1 hour of code.
+
+**Link(s) to work**: Nothing really, just 10 challenges foward than the link above
+
+
+### Day 
 
 **Today's Progress**:
 
 **Thoughts**:
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 
