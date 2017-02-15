@@ -87,13 +87,101 @@ However, tomorrow I should start JS learning. **I will put myself a deadline in 
 
 **Link(s) to work**: Nothing really, just 10 challenges foward than the link above
 
+___________________________________________________________________________________
 
-### Day 
+### Day - 1 - February 15th, Tuesday
 
-**Today's Progress**:
+**Today's Progress**: 
 
-**Thoughts**:
+**Math**
+Learning the basics of Algorithms. 
+Difference between Linear Search and Binary Search. 
+
+One important thing to keep in mind is that, when describing algorithms to a human being, incomplete descriptions are often good enough. When you read instructions to cook a cake, you're suposed to know where the chocolate is, how to open the fridge or how to crack an egg. 
+
+When talking about computer algorithms, and the way of constructing them, these incomplete instructions aren't enough. You need to teach or tell the computer every exact step it should follow in order to accomplish every task within the algorithm.
+Thus, a deep understanding of how an algorithm works is necessary:
+
+Implementing an Algorithm in Programming Language:
+  - What are the inputs to the problem?
+  - What are the outputs of the problem?
+  - What variables should be created, and what initial value should they have?
+  - What intermediate steps should be taken to compute other values and to ultimately compute the output?
+  - Do these steps repeat instructions that can be written in simplified from using loops? 
+  
+Here's the pseudocode for binary search, modified for searching in an array. The inputs are the array, which we call array; the number n of elements in array; and target, the number being searched for. The output is the index in array of target:
+
+1. Let min = 0 and max = n-1.
+2. Compute guess as the average of max and min, rounded down (so that it is an integer).
+3. If array[guess] equals target, then stop. You found it! Return guess.
+4. If the guess was too low, that is, array[guess] < target, then set min = guess + 1.
+5. Otherwise, the guess was too high. Set max = guess - 1.
+6. Go back to step 2.
+
+
+
+**Thoughts**: After a long break, I'm back, but I've changed the scope. This won't be a "learning to code diary" anymore. I want to learn not just web development, but computer science. I'm studying Marketing, so I won't be able to catch things up so quickly, but I'll try it. I'm following this guide --> **[Guide: Computer Science and Web Development - Comprehensive Path](https://forum.freecodecamp.com/t/computer-guide-computer-science-and-web-development-comprehensive-path/64470)**
+
+**Link(s) to work**: [Math](https://khanacademy.org)
+
+
+### Day - 2 - Wednesday, 15th February, 2017
+
+**Today's Progress**: 
+
+**Math**
+
+Finished 2nd set of Algorithms Itinerary, from Computer Science course, at *Khan Academy*
+
+**CS50**
+
+Finished pset1 from Week 1. 
+
+**YDKNJS**
+
+Went through various sections up to Converting Between Types.
+
+**Thoughts**: The road is getting tougher and rougher, but still doable. I think I'm getting warmed up a bit, this is going to be a tough way up to the sky, but I definitely want to climb up this mountain. Tomorrow will be good! 
+Damn, I forgot: tomorrow's my birthday, so I don't know if I'll be able to work throughout the challenges so much, dammit. 
+
+**Link(s) to work**: 
+
+For math, still sticked to Khan Academy. Link [here](https://khanacademy.org).
+For CS50, just the edx webpage. Link [here](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
+YDJS is provided in a GitHub repository. Link [here](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md).
+
+### Day - 
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 **Link(s) to work**:
 
+
+### Day - 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day - 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day - 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
 
