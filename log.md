@@ -150,13 +150,30 @@ For math, still sticked to Khan Academy. Link [here](https://khanacademy.org).
 For CS50, just the edx webpage. Link [here](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
 YDJS is provided in a GitHub repository. Link [here](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md).
 _____________________
-### Day - 
+### Day - 3 - Thursday, 16th February, 2017
 
 **Today's Progress**: 
+
+**Math**
+I've smashed myself into a big, big wall. But then, seeking for support, I understood why: I was trying to complete an itinerary in Khan Academy that was already assuming I knew so many concepts I've got no idea about. So next week I'll be starting from scratch, just Algebra, and proceed and advance. 
+
+**CS50**
+Started Week 2 by watching the Lectures. I still have to watch the shorts and then inmmerse myself into the different problems provided by pset2. 
+I hope to have some time tomorrow to watch the shorts at least.
+
+**YDKJS**
+I've got to meet my mum right now, and I'm already late. So I've got no time to read anything of YDKJS today.
+I'm affraid I'm putting aside this part. I need to focus and recover it asap.
 _____________________
-**Thoughts**: 
+**Thoughts**: Today was my birthday, so I didn't have much time to study. Tomorrow I've got to see some people and friends, and this weekend I'll be working and repairing my mum's house's third floor, so I'll have to stop for a few days. Hopefully everything's patched up this weekend and I can dedicate myself to learn full-time. 
+
+Math was tough, and I feel a bit down because I've got to start from the very beginning and that is something that really makes me feel down, but I guess it'll pay off sometime.
+
+CS50 is getting tougher, but funnier at the same time. It's my main source of learning right now. God the teacher is sooo good.
+
+As mentioned, I've got to recover ASAP the lost rythm of reading at least 10 pages of YDKJS a day. 
 _____________________
-**Link(s) to work**:
+**Link(s) to work**: None today. Just the same as yesterday.
 _____________________
 
 ### Day - 
