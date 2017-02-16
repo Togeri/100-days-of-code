@@ -129,11 +129,11 @@ Here's the pseudocode for binary search, modified for searching in an array. The
 
 **Today's Progress**: 
 
-*Math*: Finished 2nd set of Algorithms Itinerary, from Computer Science course, at *Khan Academy*
+**Math**: Finished 2nd set of Algorithms Itinerary, from Computer Science course, at *Khan Academy*
 
-*CS50*: Finished pset1 from Week 1. 
+**CS50**: Finished pset1 from Week 1. 
 
-*YDKNJS*: Went through various sections up to Converting Between Types.
+**YDKNJS**: Went through various sections up to Converting Between Types.
 
 **Thoughts**: The road is getting tougher and rougher, but still doable. I think I'm getting warmed up a bit, this is going to be a tough way up to the sky, but I definitely want to climb up this mountain. Tomorrow will be good! 
 Damn, I forgot: tomorrow's my birthday, so I don't know if I'll be able to work throughout the challenges so much, dammit. 
