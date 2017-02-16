@@ -126,30 +126,25 @@ Here's the pseudocode for binary search, modified for searching in an array. The
 
 
 ### Day - 2 - Wednesday, 15th February, 2017
-_____________________
+
 **Today's Progress**: 
 
-**Math**
+*Math*: Finished 2nd set of Algorithms Itinerary, from Computer Science course, at *Khan Academy*
 
-Finished 2nd set of Algorithms Itinerary, from Computer Science course, at *Khan Academy*
+*CS50*: Finished pset1 from Week 1. 
 
-**CS50**
+*YDKNJS*: Went through various sections up to Converting Between Types.
 
-Finished pset1 from Week 1. 
-
-**YDKNJS**
-
-Went through various sections up to Converting Between Types.
-_____________________
 **Thoughts**: The road is getting tougher and rougher, but still doable. I think I'm getting warmed up a bit, this is going to be a tough way up to the sky, but I definitely want to climb up this mountain. Tomorrow will be good! 
 Damn, I forgot: tomorrow's my birthday, so I don't know if I'll be able to work throughout the challenges so much, dammit. 
-_____________________
+
 **Link(s) to work**: 
 
 For math, still sticked to Khan Academy. Link [here](https://khanacademy.org).
 For CS50, just the edx webpage. Link [here](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
 YDJS is provided in a GitHub repository. Link [here](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md).
-_____________________
+
+
 ### Day - 3 - Thursday, 16th February, 2017
 
 **Today's Progress**: 
