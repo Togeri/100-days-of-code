@@ -178,19 +178,35 @@ As mentioned, I've got to recover ASAP the lost rythm of reading at least 10 pag
 
 
 
-### Day - 
+### Day - 4 - Tuesday, 21st February, 2017
 
 
 
 **Today's Progress**: 
 
+**Math**
+Unfortunately, I woke up late today and had no time to do math. Tomorrow I will double the quantity of math.
+
+**CS50**
+Finished 1st problem of pset2, **Initials**. At first I had some problems with null, '\0', and ' '. I might need to check it out later.
+
+Started 2nd problem of pset2. **Caesar**. Apparently, Caesar used an algorithm to encrypt his messages. For this particular exercise, we're going to emulate it following the next algorith: Ci = (p + k) mod 26.
+- I get an error of segmentation fault whenever I run the program. Gotta check that tomorrow. 
+
+**YDKJS**
+Read out 2 sections of YDKJS. I have to be way more productive.
 
 
-**Thoughts**: 
+**Thoughts**
+Damn I always forget to update this after I finish my studies. As a 'self-punihsment', I'll be always follow the count of the previous noted down day, and not the current day I'm working on.
+
+Every single challenge of every pset gets harder and harder. I'm struggling with the impostor syndrome so hard. Gotta keep up the good work and stick to the learning process.
 
 
 
-**Link(s) to work**:
+
+**Link(s) to work**: None really. Just CS50.
+
 
 
 
