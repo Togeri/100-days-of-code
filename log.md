@@ -211,20 +211,32 @@ Every single challenge of every pset gets harder and harder. I'm struggling with
 
 
 
-### Day - 
+### Day - 5 - Friday, February 24th, 2017.
 
 
 
 **Today's Progress**: 
 
+**Math**
+I've been working this week on inequalities and Algebra in general. I will keep up this as I think math will come really in handy once I develop more complex things. I feel a bit dumb studying concepts that I must have learned (supposedly) in high school, but every savvy person was once an ignorant in his/her field. 
 
 
-**Thoughts**: 
+**CS50**
+I FINALLY COMPLETED VIGENERE and hence, CS50's pset2!!! Oh my god, that one was tough, for real! 
+I'm really glad I could do it. It has been a huge self-esteem boost! 
+
+**YDKJS**
+
+
+
+**Thoughts**: I feel really far away from my comfort zone every day, which I think is really really great! Hahaha
+Furthermore: I start to see that my progress somehow is getting a tiny payback. I've been accepted in Chingu's Cohort, and I'm looking foward to start with it! 
 
 
 
 **Link(s) to work**:
-
+Nothing really. Just CS50 pset2 solutions. 
+I'm starting to think that I should be posting these solution in a GitHub repository. I might do it in the near future. First, I want to see if it would really help me somehow.
 
 
 
