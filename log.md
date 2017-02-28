@@ -240,11 +240,46 @@ I'm starting to think that I should be posting these solution in a GitHub reposi
 
 
 
-### Day - 
+### Day - Tuesday, February 28th, 2017
 
 
 
 **Today's Progress**: 
+
+**Math**: I've been working on very basic Algebra. Inequalities for the moment.
+
+**CS50** I've started pset3. The curve now have become stepper, there's a hard gap between each pset. It's getting tougher and tougher, but I'm sure I can handle it. I just need to dedicate more time to it.
+
+**YDKJS**: I've been reading through UP & Going Chapter 2. I've learned Immediately Invoked Function Expressions (IIFEs), Strict Mode and Conditional Operator.. 
+
+I'll post here some code in order to keep track of it as an useful resource:
+
+**IIFEs**:
+
+```javascript
+var a = 42;
+
+(function IIFE() {
+	var a = 10;
+	console.log( a ); //10
+})();
+
+console.log ( a ); //42
+
+/* The outer ( .. ) that surrounds the (function IIFE(){ .. }) function expression is just a nuance of JS grammar needed to prevent it from being treated as a normal function declaration.
+
+The final () on the end of the expression -- the })(); line -- is what actually executes the function expression referenced immediately before it.*/
+
+// IIFEs can also have return values:
+
+var x = (function IIFE() {
+  return 42;
+}) ();
+
+x;
+
+// The 42 value gets returned from the IIFE-named function being executed, and is then assigned to x.
+```
 
 
 
