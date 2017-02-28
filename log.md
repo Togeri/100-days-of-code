@@ -250,7 +250,7 @@ I'm starting to think that I should be posting these solution in a GitHub reposi
 
 **CS50** I've started pset3. The curve now have become stepper, there's a hard gap between each pset. It's getting tougher and tougher, but I'm sure I can handle it. I just need to dedicate more time to it.
 
-**YDKJS**: I've been reading through UP & Going Chapter 2. I've learned Immediately Invoked Function Expressions (IIFEs), Strict Mode and Conditional Operator.. 
+**YDKJS**: I've been reading through UP & Going Chapter 2. I've learned **Immediately Invoked Function Expressions (IIFEs), Strict Mode** and **Conditional Operator**. 
 
 I'll post here some code in order to keep track of it as an useful resource:
 
@@ -281,9 +281,36 @@ x;
 // The 42 value gets returned from the IIFE-named function being executed, and is then assigned to x.
 ```
 
+**Conditional Operator**:
+
+```javascript
+// Another form of conditional in JavaScript is the "conditional operator," often called the "ternary operator." It's like a more concise form of a single if..else statement, such as:
+
+var a = 42;
+
+var b = (a > 42) ? "hello" : "world";
+
+/* similar to:
+
+ if (a > 41) {
+    b = "hello";
+ }
+ else {
+    b = "world";
+ }
+ 
+ */
+```
+
+**Strict Mode**:
+
+```javascript
+
+```
 
 
-**Thoughts**: 
+
+**Thoughts**: I keep forgetting to write on a daily basis. Dammit. This log is getting bigger and bigger. Maybe I should create a new log on a monthly basis.
 
 
 
